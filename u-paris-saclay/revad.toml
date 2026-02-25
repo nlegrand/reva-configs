@@ -124,7 +124,7 @@ prefix = "datagateway"
 
 [http.services.ocgraph]
 ocm_enabled = true
-base_url = "https://your.fqdn.server"
+base_url = "https://reva.mesocentre.universite-paris-saclay.fr"
 pub_rw_link_max_expiration = 94694400 # 3 years + 1 day
 pub_rw_link_default_expiration = 2678400 # 1 month + 1 day
 
